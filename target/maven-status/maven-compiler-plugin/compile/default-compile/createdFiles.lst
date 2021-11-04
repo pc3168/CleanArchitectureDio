@@ -1,0 +1,5 @@
+br\com\digitalinnovationone\application\ports\dtos\VisitanteDto.class
+br\com\digitalinnovationone\application\ports\dtos\VisitanteRepositoryPort.class
+br\com\digitalinnovationone\application\entidades\Visitante.class
+br\com\digitalinnovationone\application\ports\dtos\VisitanteService.class
+br\com\digitalinnovationone\application\ports\dtos\VisitanteServicePort.class
